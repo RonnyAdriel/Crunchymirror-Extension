@@ -53,7 +53,7 @@ subprojects {
     apply(plugin = "com.lagradost.cloudstream3.gradle")
 
     cloudstream {
-        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/<ronnyadriel>/Crunchymirror-Extension.git")
+        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/ronnyadriel/Crunchymirror-Extension.git")
         authors = listOf("Crunchymirror")
     }
 

@@ -10,7 +10,7 @@ Cloud Stream ( To install : [View Docs](https://recloudstream.github.io/docs/ins
 ### To Install Repo
 1. Manual Install (Copy and Paste in add Repo of Cloud Stream) :
 ```
-https://raw.githubusercontent.com/<USER>/Crunchymirror-Extension/refs/heads/builds/plugins.json
+https://raw.githubusercontent.com/ronnyadriel/Crunchymirror-Extension/refs/heads/builds/plugins.json
 ```
 
 ### License

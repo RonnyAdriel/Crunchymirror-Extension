@@ -32,5 +32,5 @@ cloudstream {
         "AnimeMovie"
     )
 
-    iconUrl = "https://raw.githubusercontent.com/<ronnyadriel>/Crunchymirror-Extension/builds/logo.png"
+    iconUrl = "https://raw.githubusercontent.com/ronnyadriel/Crunchymirror-Extension/builds/logo.png"
 }
